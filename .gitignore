@@ -1,0 +1,8 @@
+__pycache__/
+*.pt
+*.log
+*.zip
+*.pdf
+extracted_images/
+questions.json
+questions_with_captions.json
